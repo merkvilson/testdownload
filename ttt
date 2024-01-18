@@ -1,4 +1,4 @@
-dict_text = {
+{
     "size": 1024,
     "test": True,
 
