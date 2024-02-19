@@ -10,6 +10,6 @@
   "developer":  {"Merk": "https://merk.gumroad.com/"},
   "co_devs":    {"Wenhao Zhang":     "https://space.bilibili.com/35043394?spm_id_from=333.788.0.0",
                 "Ihar Krauchanka":  "https://www.linkedin.com/in/krachik/",
-                "Nicol Substan":    "https://www.linkedin.com/"},
+                "Nicol Substan":    "https://www.linkedin.com"},
   "finish": false
 }
