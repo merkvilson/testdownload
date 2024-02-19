@@ -8,10 +8,8 @@
   "model_link":  {"link":"https://drive.google.com/file/d/1OooGdLpAPypvTQawA1UHUG_VlEKGPO1h/view?usp=sharing", "type":"zip"         },
   "plugin_link": {"link":"https://drive.google.com/file/d/1CCjnEB3i_w_VAWsrqGN10-FBOqdrltFk/view?usp=sharing", "type":"safetensors" },
   "developer":  {"Merk": "https://merk.gumroad.com/"},
-  "co_devs":    {
-                "Wenhao Zhang":     "https://space.bilibili.com/35043394?spm_id_from=333.788.0.0",
+  "co_devs":    {"Wenhao Zhang":     "https://space.bilibili.com/35043394?spm_id_from=333.788.0.0",
                 "Ihar Krauchanka":  "https://www.linkedin.com/in/krachik/",
-                "Nicol Substan":    "https://www.linkedin.com/",
-                },
+                "Nicol Substan":    "https://www.linkedin.com/"},
   "finish": false
 }
