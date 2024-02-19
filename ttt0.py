@@ -12,5 +12,4 @@
   "plugin_link": {"link":"https://drive.google.com/file/d/1CCjnEB3i_w_VAWsrqGN10-FBOqdrltFk/view?usp=sharing", "type":"safetensors" },
 
   "finish": false
-
 }
