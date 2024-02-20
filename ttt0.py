@@ -6,7 +6,7 @@
   "webui_link":  {"link":"https://drive.google.com/file/d/1eguKMl5IJcl3jC0t1wXJCtQudI86SmuR/view?usp=sharing", "type":"zip"         },
   "system_link": {"link":"https://drive.google.com/file/d/1V3SuddBtCdJHLClHBphf1tsZRyEFlbPQ/view?usp=sharing", "type":"zip"         },
   "model_link":  {"link":"https://drive.google.com/file/d/1OooGdLpAPypvTQawA1UHUG_VlEKGPO1h/view?usp=sharing", "type":"zip"         },
-  "plugin_link": {"link":"https://drive.google.com/file/d/1CCjnEB3i_w_VAWsrqGN10-FBOqdrltFk/view?usp=sharing", "type":"safetensors" },
+  "plugin_link": {"link":"https://drive.google.com/file/d/1XavJgjuxwmR_7g0K4-uwEqlZxUdFF-qY/view?usp=sharing", "type":"safetensors" },
   "developer":  {"Merk": "https://merk.gumroad.com/"},
   "co_devs":    {"Wenhao Zhang":     "https://space.bilibili.com/35043394?spm_id_from=333.788.0.0",
                 "Ihar Krauchanka":  "https://www.linkedin.com/in/krachik/",
