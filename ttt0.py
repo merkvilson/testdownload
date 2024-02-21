@@ -9,7 +9,7 @@
   "plugin_link": {"link":"https://drive.google.com/file/d/1XavJgjuxwmR_7g0K4-uwEqlZxUdFF-qY/view?usp=sharing", "type":"zip" },
   "developer":  {"Merk": "https://merk.gumroad.com/"},
   "co_devs":    {"Wenhao Zhang":     "https://space.bilibili.com/35043394?spm_id_from=333.788.0.0",
-                "Ihar Krauchanka":  "https://www.linkedin.com/in/krachik/",
+                "Ihar Krauchanka 123":  "https://www.linkedin.com/in/krachik/",
                 "Nicol Substan":    "https://www.linkedin.com"},
   "finish": false
 }
