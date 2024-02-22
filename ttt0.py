@@ -13,30 +13,35 @@
              "name": "stable_link"                                                                       ,
              "path": "P_ROOT"                                                                            ,
              "size": "0110"                                                                              ,
+             "progress": 0.03                                                                            ,
              "type": "7z"                                                                                },
 
             {"link": "https://drive.google.com/file/d/1V3SuddBtCdJHLClHBphf1tsZRyEFlbPQ/view?usp=sharing",
              "name": "system_link"                                                                       ,
              "path": "P_STABLE"                                                                          ,
              "size": "2590"                                                                              ,
+             "progress": 0.225                                                                           ,
              "type": "zip"                                                                               },
 
             {"link": "https://drive.google.com/file/d/1eguKMl5IJcl3jC0t1wXJCtQudI86SmuR/view?usp=sharing",
              "name": "webui_link"                                                                        ,
              "path": "P_STABLE"                                                                          ,
              "size": "3660"                                                                              ,
+             "progress": 0.6                                                                             ,
              "type": "zip"                                                                               },
 
             {"link": "https://drive.google.com/file/d/1OooGdLpAPypvTQawA1UHUG_VlEKGPO1h/view?usp=sharing",
              "name": "model_link"                                                                        ,
              "path": "P_MODELS"                                                                          ,
              "size": "4000"                                                                              ,
+             "progress": 0.860                                                                           ,
              "type": "safetensors"                                                                       },
 
             {"link": "https://drive.google.com/file/d/1XavJgjuxwmR_7g0K4-uwEqlZxUdFF-qY/view?usp=sharing",
              "name": "plugin_link"                                                                       ,
              "path": "P_PLUGINS"                                                                         ,
              "size": "0010"                                                                              ,
+             "progress": 0.95                                                                            ,
              "type": "zip"                                                                               }],
 
 
@@ -46,4 +51,3 @@
                 "Nicol Substan":    "https://www.linkedin.com"},
   "finish": false
 }
-
