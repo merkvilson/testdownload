@@ -32,7 +32,7 @@
 
             {"link": "https://drive.google.com/file/d/1OooGdLpAPypvTQawA1UHUG_VlEKGPO1h/view?usp=sharing",
              "name": "model_link"                                                                        ,
-             "path": "P_STABLE/webui/models/Stable-diffusion"                                            ,
+             "path": "P_STABLE\\webui\\models\\Stable-diffusion"                                            ,
              "size": "4000"                                                                              ,
              "progress": 0.860                                                                           ,
              "type": "safetensors"                                                                       },
