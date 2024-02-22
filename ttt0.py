@@ -32,7 +32,7 @@
             {"link": "https://drive.google.com/file/d/1XavJgjuxwmR_7g0K4-uwEqlZxUdFF-qY/view?usp=sharing",
              "name": "plugin_link"                                                                       ,
              "path": "P_PLUGINS"                                                                         ,
-             "type": "zip"                                                                               },],
+             "type": "zip"                                                                               }],
 
 
   "developer":  {"Merk": "https://merk.gumroad.com/"},
