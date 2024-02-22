@@ -12,26 +12,31 @@
   "link": [ {"link": "https://drive.google.com/file/d/1IbRKd6vx6wHM4KpBCEH3AK1rTnlKt07B/view?usp=sharing",
              "name": "stable_link"                                                                       ,
              "path": "P_ROOT"                                                                            ,
+             "size": "0110"                                                                              ,
              "type": "7z"                                                                                },
-
-            {"link": "https://drive.google.com/file/d/1eguKMl5IJcl3jC0t1wXJCtQudI86SmuR/view?usp=sharing",
-             "name": "webui_link"                                                                        ,
-             "path": "P_STABLE"                                                                          ,
-             "type": "zip"                                                                               },
 
             {"link": "https://drive.google.com/file/d/1V3SuddBtCdJHLClHBphf1tsZRyEFlbPQ/view?usp=sharing",
              "name": "system_link"                                                                       ,
              "path": "P_STABLE"                                                                          ,
+             "size": "2590"                                                                              ,
+             "type": "zip"                                                                               },
+
+            {"link": "https://drive.google.com/file/d/1eguKMl5IJcl3jC0t1wXJCtQudI86SmuR/view?usp=sharing",
+             "name": "webui_link"                                                                        ,
+             "path": "P_STABLE"                                                                          ,
+             "size": "3660"                                                                              ,
              "type": "zip"                                                                               },
 
             {"link": "https://drive.google.com/file/d/1OooGdLpAPypvTQawA1UHUG_VlEKGPO1h/view?usp=sharing",
              "name": "model_link"                                                                        ,
              "path": "P_MODELS"                                                                          ,
+             "size": "4000"                                                                              ,
              "type": "safetensors"                                                                       },
 
             {"link": "https://drive.google.com/file/d/1XavJgjuxwmR_7g0K4-uwEqlZxUdFF-qY/view?usp=sharing",
              "name": "plugin_link"                                                                       ,
              "path": "P_PLUGINS"                                                                         ,
+             "size": "0010"                                                                              ,
              "type": "zip"                                                                               }],
 
 
@@ -41,3 +46,4 @@
                 "Nicol Substan":    "https://www.linkedin.com"},
   "finish": false
 }
+
