@@ -79,12 +79,12 @@
              "progress": 0.94                                                                            ,
              "type": "safetensors"                                                                               },
             
-            {"link": "https://drive.google.com/file/d/1becVrwumPqtcA-LxFPTHqTmpxPzzqbq9/view?usp=sharing",
+            {"link": "https://drive.google.com/file/d/1KTP9kDS0YgXBzoYPFCKAapcZ9teZnl9q/view?usp=sharing",
              "name": "plugin_link_02"                                                                   ,
              "path": "P_PLUGINS"                                                     ,
              "size": "0010"                                                                              ,
              "progress": 0.95                                                                            ,
-             "type": "zip"                                                                               },
+             "type": "7z"                                                                               },
 
             {"link": "https://drive.google.com/file/d/1u4d1uGh9BJSXE_27YhSUlbv1rdtdA56T/view?usp=sharing",
              "name": "api_link_01"                                                                       ,
