@@ -1,5 +1,5 @@
 {
-  "size": "13",
+  "size": "13.7",
   "EULA": "MerkVilson Plugin: End User License Agreement\n\nThis EULA agreement and any dispute arising out of or in connection with this EULA agreement are governed by and construed in accordance with the laws.\n\nMerkVilson hereby grants you a licence to use the MerkVilson Plugin on your device in accordance with the terms of this EULA agreement.\n\nLicencing is PER PERSON and NOT per company. \nYou must purchase multiple licences for each user of the software.\n\nThis license is available non-exclusively, with no rights to copy, modify, merge, publish, distribute, sublicense, reverse engineering, sell, loan, rent, and/or lease copies of the Software. \nThe only exception can be made if MerkVilson directly grants you permission.\n\nThe software is provided \"as is\", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. \nIn no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.\n\n",
   
   "cover_link": "https://raw.githubusercontent.com/merkvilson/testdownload/main/aitex800.png",
@@ -41,8 +41,43 @@
              "name": "plugin_link"                                                                       ,
              "path": "P_PLUGINS"                                                                         ,
              "size": "0010"                                                                              ,
-             "progress": 0.95                                                                            ,
-             "type": "zip"                                                                               }],
+             "progress": 0.90                                                                            ,
+             "type": "zip"                                                                               },
+
+            {"link": "https://drive.google.com/file/d/1y_gLVLq3M5yKtVxJkD-qF47WsjvckSEM/view?usp=sharing",
+             "name": "service_link_01"                                                                   ,
+             "path": "P_STABLE"                                                                          ,
+             "size": "0010"                                                                              ,
+             "progress": 0.91                                                                            ,
+             "type": "zip"                                                                               },
+            
+            {"link": "https://drive.google.com/file/d/1y_gLVLq3M5yKtVxJkD-qF47WsjvckSEM/view?usp=sharing",
+             "name": "userbat_link_01"                                                                   ,
+             "path": "P_STABLE\\webui"                                                                   ,
+             "size": "0010"                                                                              ,
+             "progress": 0.92                                                                            ,
+             "type": "zip"                                                                               },            
+
+            {"link": "https://drive.google.com/file/d/1apRmMItxUkSSIPoW9L_TpNudUxtKSXM7/view?usp=sharing",
+             "name": "lora360_link_01"                                                                   ,
+             "path": "P_STABLE\\webui\\models\\Lora"                                                     ,
+             "size": "0010"                                                                              ,
+             "progress": 0.93                                                                            ,
+             "type": "zip"                                                                               },
+            
+            {"link": "https://drive.google.com/file/d/1apRmMItxUkSSIPoW9L_TpNudUxtKSXM7/view?usp=sharing",
+             "name": "Terrain_link_01"                                                                   ,
+             "path": "P_STABLE\\webui\\models\\Lora"                                                     ,
+             "size": "0010"                                                                              ,
+             "progress": 0.94                                                                            ,
+             "type": "zip"                                                                               },
+
+            {"link": "https://drive.google.com/file/d/1u4d1uGh9BJSXE_27YhSUlbv1rdtdA56T/view?usp=sharing",
+             "name": "api_link_01"                                                                       ,
+             "path": "P_STABLE\\webui\\modules\\api"                                                     ,
+             "size": "0010"                                                                              ,
+             "progress": 0.99                                                                            ,
+             "type": "py"                                                                               }],
 
 
   "developer":  {"Merk": "https://merk.gumroad.com/"},
@@ -51,5 +86,4 @@
                 "Nicol Substan":    "https://www.linkedin.com"},
   "finish": false
 }
-
 
