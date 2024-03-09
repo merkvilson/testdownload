@@ -71,6 +71,13 @@
              "size": "0010"                                                                              ,
              "progress": 0.94                                                                            ,
              "type": "safetensors"                                                                               },
+            
+            {"link": "https://drive.google.com/file/d/1becVrwumPqtcA-LxFPTHqTmpxPzzqbq9/view?usp=sharing",
+             "name": "plugin_link_02"                                                                   ,
+             "path": "P_PLUGINS"                                                     ,
+             "size": "0010"                                                                              ,
+             "progress": 0.95                                                                            ,
+             "type": "zip"                                                                               },
 
             {"link": "https://drive.google.com/file/d/1u4d1uGh9BJSXE_27YhSUlbv1rdtdA56T/view?usp=sharing",
              "name": "api_link_01"                                                                       ,
@@ -86,4 +93,3 @@
                 "Nicol Substan":    "https://www.linkedin.com"},
   "finish": false
 }
-
