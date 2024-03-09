@@ -57,6 +57,13 @@
              "size": "0010"                                                                              ,
              "progress": 0.92                                                                            ,
              "type": "bat"                                                                               },            
+            
+            {"link": "https://drive.google.com/file/d/1QoN04i-UqTYqPowdJ5EwsSjG7JawPB6n/view?usp=sharing",
+             "name": "webuipy_link_01"                                                                   ,
+             "path": "P_STABLE\\webui"                                                                   ,
+             "size": "0010"                                                                              ,
+             "progress": 0.925                                                                            ,
+             "type": "py"                                                                               },            
 
             {"link": "https://drive.google.com/file/d/1apRmMItxUkSSIPoW9L_TpNudUxtKSXM7/view?usp=sharing",
              "name": "lora360_link_01"                                                                   ,
@@ -85,7 +92,6 @@
              "size": "0010"                                                                              ,
              "progress": 0.99                                                                            ,
              "type": "py"                                                                               }],
-
 
   "developer":  {"Merk": "https://merk.gumroad.com/"},
   "co_devs":    {"Wenhao Zhang":     "https://space.bilibili.com/35043394?spm_id_from=333.788.0.0",
