@@ -68,7 +68,7 @@
              "type": "safetensors"                                                                       },
             
             {"link": "https://drive.google.com/file/d/1SgLtnJbJD6BhPqh8HVAeUIfy1_S0JilO/view?usp=sharing",
-             "name": "plugin_link__03"                                                                   ,
+             "name": "plugin_link__003"                                                                   ,
              "path": "P_PLUGINS"                                                                         ,
              "size": "0010"                                                                              ,
              "progress": 0.95                                                                            ,
